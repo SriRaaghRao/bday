@@ -1,2 +1,2 @@
 # bday
-notifies bday's
+notifies bday's ofc very usefuloiii.
